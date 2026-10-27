@@ -1,12 +1,12 @@
 # Labo 2 - reflecties
 
-Naam: (jouw naam)
+Naam: ilias kaichouhi bezghout
 
 ## 2. Selectors lezen
 
 Welke elementen raakt elke selector? Eén zin per selector.
 
-- a. `header nav ul li a`: 
+- a. `header nav ul li a`:  
 - b. `article > p`: 
 - c. `.uren li:nth-child(3)`: 
 - d. `h2 ~ p`: 
